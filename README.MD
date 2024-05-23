@@ -33,8 +33,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Tipos de Aprendizado de Máquina                                                                                                                                                                                                  |
-| conteúdo | 
-Comporte-se como um escritor de artigos de machine learning e escreva o Artigo atendendo as {REGRAS}|
+| conteúdo | Comporte-se como um escritor de artigos de machine learning e escreva o Artigo atendendo as {REGRAS}
+                                  |
 
 
 Lexica.art：
