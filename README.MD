@@ -33,23 +33,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Tipos de Aprendizado de Máquina                                                                                                                                                                                                  |
-| conteúdo | User
-Comporte-se como um escritor de artigos de machine learning e escreva o Artigo atendendo as {REGRAS}
-
-{REGRAS}
-> Crie uma introdução
-
-> No máximo 5 linhas por bloco de explicação
-> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-> Utilize analogias
-> Os blocos que serão criados estão abaixo:
-- O que são modelos de aprendizados de máquina
-- Qual a diferença entre Aprendizado Supervisionado e Não Supervisionado
-- Quais modelos existem
-   - Cite códigos para cada modelo
-- Vantagens e Desvantagens
-- Utilizações do aprendizado de máquina
-- Coloque 3 hashtags que façam sentido |
+| conteúdo | 
+Comporte-se como um escritor de artigos de machine learning e escreva o Artigo atendendo as {REGRAS}|
 
 
 Lexica.art：
