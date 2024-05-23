@@ -17,7 +17,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/desvendando-o-aprendizado-de-maquina-conheca-os-principais-tipos-e-suas-aplicacoes?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -34,8 +34,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Tipos de Aprendizado de Máquina                                                                                                                                                                                                  |
 | conteúdo | Comporte-se como um escritor de artigos de machine learning e escreva o Artigo atendendo as {REGRAS}
-                                  |
-
 
 Lexica.art：
 
